@@ -1,0 +1,28 @@
+{
+    "name": "Style-Guidelines",
+    "version": "0.0.0",
+    "description": "collection of style guidelines",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/khowarizmi/Style-Guidelines.git"
+    },
+    "keywords": [
+        "collection",
+        "style",
+        "guidelines"
+    ],
+    "author": "khowarizmi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/khowarizmi/Style-Guidelines/issues"
+    },
+    "homepage": "https://github.com/khowarizmi/Style-Guidelines",
+    "dependencies": {
+    	"request": "*",
+    	"async": "*"
+    }
+}
