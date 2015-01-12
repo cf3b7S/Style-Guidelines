@@ -8,11 +8,14 @@ collection of style guidelines
 
 [少数派文案格式与风格规范](http://sspai.com/25130)
 
+[漫言文案排版规范](http://mangatalk.net/2014/typesetting/)
+
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 [产品文案风格指南](http://www.hoowolf.net/2014/12/05/product-copyright-style-guidelines/)
 
 [写作风格手册](http://qdaily.com/display/articles/1397)
+
 
 
 
